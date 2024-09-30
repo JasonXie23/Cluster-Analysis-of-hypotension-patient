@@ -11,8 +11,11 @@ The objective of this project is to process and analyze a dataset containing inf
 
 ### Key Tasks:
 1.Load and preprocess the patient dataset.
+
 2.Perform exploratory data analysis, including summary statistics, boxplots, and distribution plots.
+
 3.Apply KMeans clustering and determine the optimal number of clusters (k).
+
 4.Visualize the clusters and draw insights from the analysis.
 
 ## How to Set Up the Environment
@@ -23,6 +26,7 @@ However, the recommended method is to run the notebook on Google Colab, as the e
 
 ### Instructions for Google Colab to run this notebook:
 1.Mount your Google Drive in Colab to access the dataset.
+
 2.Make sure to adjust the file path in the code to point to the location of your hypotension_patient.csv file within your Google Drive.
 
 ### Required Packages:
