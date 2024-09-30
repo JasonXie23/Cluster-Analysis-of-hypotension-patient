@@ -21,7 +21,7 @@ To run this notebook, you will need to install the following dependencies. These
 
 However, the recommended method is to run the notebook on Google Colab, as the environment used in the original notebook was set up in Colab. The requirements.txt file generated from Colab tends to include many dependencies, which may not be ideal for local setups. Running the notebook on Google Colab allows for a smoother experience.
 
-##Instructions for Google Colab to run this notebook:
+### Instructions for Google Colab to run this notebook:
 1.Mount your Google Drive in Colab to access the dataset.
 2.Make sure to adjust the file path in the code to point to the location of your hypotension_patient.csv file within your Google Drive.
 
