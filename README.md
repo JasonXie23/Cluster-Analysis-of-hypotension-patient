@@ -1,7 +1,7 @@
-# Assignment 2
+# Cluster Analysis of Hypotension Patients and Visualization
 
 ## Author
-**Jiejun Xie 1418316**
+**Jiejun Xie**
 
 ## Assignment
 This project focuses on analyzing patient data related to hypotension. The goal is to perform exploratory data analysis, apply clustering methods, and identify distinguishing features among different clusters using KMeans.
